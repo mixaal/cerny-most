@@ -60,7 +60,7 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 | | |
 |---|---|
 | místo | stěna proti vstupním dveřím, od rohu; volná šířka **1117** (dál je rozvaděč s pojistkami, musí zůstat přístupný) |
-| strop | **2443** → korpus 236,4 při zvedání z lehu potřebuje ~2434 → **vůle jen ~9 mm**; prosíme skládat nastojato, nebo použít korpus 201 |
+| strop | **2443** → korpus 236,4 při zvedání z lehu potřebuje ~2434 → **vůle jen ~9 mm**. Skládat nastojato? Nechme na vás – jen upozorňujeme |
 | sestava | **2 × PAX 50 × 58 × 236** (= 1000, k rozvaděči zůstane 167), nahoře krycí lišta ke stropu (~79 mm) |
 | levý korpus | dvířka 50 × 229; dole výsuvná police na vysoké boty, **tyč ve výšce 1600**, police 1700, nahoře ~2130 |
 | pravý korpus – **nika pro robotický vysavač** | **0–450 otevřeno, bez dna a bez soklu** (robot vjíždí po podlaze předsíně). Korpus složit bez dna a soklu, **dno připevnit napevno ve výšce 450** (navrtat), **záda zkrátit** a přibít od 450 nahoru, případně latka vzadu dole. Dvířka **50 × 195** jen od niky nahoru. Police 830, 1210, 1700, ~2130 |
