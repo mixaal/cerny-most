@@ -30,6 +30,7 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 | proč tyče na 1600 | aby dosáhla i menší postava; dlouhé věšení ve skříni nechceme |
 | tip IKEA | PAX 2 × 75 × 58 × 236 (bílý), posuvné zrcadlové dveře 150 × 236, KOMPLEMENT: výsuvný věšák na kalhoty 75, 3 zásuvky 75, 2 tyče 75, police |
 | pozor | kotvení ke zdi |
+| **otázka** | **kdo by dodělal výplň nad skříní ke stropu (~23 cm) – vy, nebo truhlář?** Případně čím (panel / lišta na míru) |
 
 ![Šatní skříň – zavřená](img/pax-zavreno.jpg)
 ![Šatní skříň – vnitřek](img/pax-vnitrek.jpg)
@@ -67,10 +68,13 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 | kotvení | oba korpusy do zdi (u korpusu s nikou nutně); podlaha je vinyl – vyrovnat podložkami pod boky |
 | robot | zásuvka je hned vpravo vedle skříně na liště (~400 nad podlahou) → kabel bokem do niky |
 | záruka | úpravu korpusu bereme na sebe, ztráta záruky nevadí |
+| **otázka** | **kdo by dodělal výplň nad skříněmi ke stropu (79 mm) – vy, nebo truhlář?** Případně čím (krycí lišta na míru) |
+| robot | nabíjecí stanice musí být nižší než ~400 mm (vpředu nad podlahou ~414 pod dvířky) – model ještě upřesníme |
 
 ![Předsíň – výkres sestavy z PAX (varianta A): zavřeno a vnitřek](img/predsin-pax-vykres.jpg)
 ![Předsíň – půdorys sestavy (dvířka s panty vpravo, 167 mm volno k rozvaděči)](img/predsin-pax-pudorys.jpg)
-![Předsíň – skříně s nikou pro robota (render našeho návrhu; PAX by byl o ~12 cm užší a bez samostatných horních dvířek)](img/predsin-skrine.jpg)
+![Předsíň – skříně z PAX v reálné velikosti (2 × 50, výška 2364, ke stropu zůstává 79 mm)](img/predsin-pax-render.jpg)
+![Předsíň – skříně z PAX zepředu: mezera ke stropu a nika pro robota](img/predsin-pax-zepredu.jpg)
 
 ---
 
