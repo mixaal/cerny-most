@@ -12,13 +12,13 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 |---|---|---|---|---|
 | 1 | Šatní skříň 1500 × 600 se zrcadlovými posuvnými dveřmi | ložnice | PAX 2 × 75 + posuvné dveře 150 + KOMPLEMENT | vysoká |
 | 2 | Plovoucí TV skříňky 3000–3100 × 400 | obývák | BESTÅ závěsné 5 × 60 × 40 × 38 | vysoká |
-| 3 | Police + děrovaná deska v komoře | komora | IVAR (nebo BOAXEL) + SKÅDIS | střední |
-| 4 | Skříňka na tříděný odpad | předsíň | METOD 60 + výsuvné koše + deska | střední |
-| 5 | Jídelní stůl + 4 židle, pohovka | obývák | bílý stůl ~120 × 80, bílé židle, 2místná pohovka | střední |
-| 6 | Drobnosti: botník, věšák, zrcadlo | předsíň | TRONES, háčky, zrcadlo | nízká |
+| 3 | 2 vysoké skříně v předsíni, jedna s nikou pro robotický vysavač | předsíň | PAX 2 × 50 (úprava: nika bez dna) | zvažujeme |
+| 4 | Police + děrovaná deska v komoře | komora | IVAR (nebo BOAXEL) + SKÅDIS | střední |
+| 5 | Drobnosti: botník, věšák, zrcadlo | předsíň | TRONES, háčky, zrcadlo | nízká |
 | – | *Ložnice (postel, stůl, knihovny)* | ložnice | *zatím nerozhodnuto – doplníme později* | – |
 
-**Co NEDĚLÁ montér IKEA** (dělá truhlář): kuchyňská linka, dubové hranoly a dlouhá police na TV stěně.
+**Co NEDĚLÁ montér IKEA:** kuchyňská linka, dubové hranoly a dlouhá police na TV stěně (truhlář);
+jídelní stůl, židle, pohovka a skříňka na tříděný odpad (zajistíme sami).
 U TV stěny se práce potkají – viz bod 2.
 
 ---
@@ -59,7 +59,26 @@ U TV stěny se práce potkají – viz bod 2.
 
 ---
 
-## 3) Komora (mimo byt, přes chodbu) – police a nářadí
+## 3) Předsíň – 2 vysoké skříně z PAX (zvažujeme)
+
+Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to takhle půjde.
+
+| | |
+|---|---|
+| místo | stěna proti vstupním dveřím, od rohu; volná šířka **1117** (dál je rozvaděč s pojistkami, musí zůstat přístupný) |
+| strop | **2443** → korpus 236,4 při zvedání z lehu potřebuje ~2434 → **vůle jen ~9 mm**; prosíme skládat nastojato, nebo použít korpus 201 |
+| sestava | **2 × PAX 50 × 58 × 236** (= 1000, k rozvaděči zůstane 167), nahoře krycí lišta ke stropu (~79 mm) |
+| levý korpus | dvířka 50 × 229; dole výsuvná police na vysoké boty, **tyč ve výšce 1600**, police 1700, nahoře ~2130 |
+| pravý korpus – **nika pro robotický vysavač** | **0–450 otevřeno, bez dna a bez soklu** (robot vjíždí po podlaze předsíně). Korpus složit bez dna a soklu, **dno připevnit napevno ve výšce 450** (navrtat), **záda zkrátit** a přibít od 450 nahoru, případně latka vzadu dole. Dvířka **50 × 195** jen od niky nahoru. Police 830, 1210, 1700, ~2130 |
+| kotvení | oba korpusy do zdi (u korpusu s nikou nutně); podlaha je vinyl – vyrovnat podložkami pod boky |
+| robot | zásuvka je hned vpravo vedle skříně na liště (~400 nad podlahou) → kabel bokem do niky |
+| záruka | úpravu korpusu bereme na sebe, ztráta záruky nevadí |
+
+![Předsíň – skříně s nikou pro robota (render našeho návrhu; PAX by byl o ~12 cm užší a bez samostatných horních dvířek)](img/predsin-skrine.jpg)
+
+---
+
+## 4) Komora (mimo byt, přes chodbu) – police a nářadí
 
 | | |
 |---|---|
@@ -76,33 +95,7 @@ U TV stěny se práce potkají – viz bod 2.
 
 ---
 
-## 4) Skříňka na tříděný odpad – předsíň
-
-| | |
-|---|---|
-| místo | předsíň u dveří do kuchyně, šířka **600**, hloubka 500–600 |
-| výška | ~900 s deskou; **na stěně nad ní je vypínač ve výšce 1150** – skříňka nesmí být vyšší |
-| tip IKEA | kuchyňská spodní skříňka **METOD 60 × 60 × 80** + nožky + **výsuvné koše na tříděný odpad** + bílé čelo + kus pracovní desky nahoru |
-
-![Předsíň – koše (vpravo) a lavice](img/predsin-kose.jpg)
-
----
-
-## 5) Obývák – jídelní stůl, židle, pohovka
-
-| | |
-|---|---|
-| stůl | **bílý, ~1200 × 800** (nebo ~1250 × 750), pro 4 osoby |
-| židle | 4 × **bílé** |
-| pohovka | **2místná, šířka 1600–1900, hloubka max. ~950**; barva zatím nerozhodnuta (petrolejová / šedá / béžová) |
-| konferenční stolek | sklo + tenký černý rám ~550 × 900 (pokud IKEA něco podobného má) |
-
-![Obývák – stůl a pohovka](img/obyvak-render.jpg)
-![Obývák – shora](img/obyvak-shora.jpg)
-
----
-
-## 6) Předsíň – drobnosti
+## 5) Předsíň – drobnosti
 - **botník** mělký na zeď (např. TRONES) + malá stolička na sezení (lavice max. ~55 cm široká),
 - **věšák** (lišta s háčky) a **zrcadlo** na stěnu.
 
