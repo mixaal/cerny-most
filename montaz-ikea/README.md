@@ -74,6 +74,8 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 | robot | zásuvka je hned vpravo vedle skříně na liště (~400 nad podlahou) → kabel bokem do niky |
 | záruka | úpravu korpusu bereme na sebe, ztráta záruky nevadí |
 
+![Předsíň – výkres sestavy z PAX (varianta A): zavřeno a vnitřek](img/predsin-pax-vykres.jpg)
+![Předsíň – půdorys sestavy (dvířka s panty vpravo, 167 mm volno k rozvaděči)](img/predsin-pax-pudorys.jpg)
 ![Předsíň – skříně s nikou pro robota (render našeho návrhu; PAX by byl o ~12 cm užší a bez samostatných horních dvířek)](img/predsin-skrine.jpg)
 
 ---
