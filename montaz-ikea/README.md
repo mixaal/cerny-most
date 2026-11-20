@@ -3,7 +3,7 @@
 Dobrý den, posíláme seznam věcí, které bychom rádi pořídili **z IKEA** a nechali složit.
 U každé věci je **náš rozměr** (z měření v bytě), **náš tip na IKEA řadu** a obrázek, jak si to představujeme.
 
-**Prosíme o:** ověření, jestli to z IKEA jde (rozměry, dostupnost, plánovač PAX/BESTÅ/METOD), případně
+**Prosíme o:** ověření, jestli to z IKEA jde (rozměry, dostupnost, plánovač PAX/BESTÅ), případně
 lepší návrh, a orientační cenu (díly + montáž). Tipy na konkrétní řady jsou naše odhady – rádi se necháme poradit.
 
 Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou orientační (barvy, proporce).
@@ -13,13 +13,7 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 | 1 | Šatní skříň 1500 × 600 se zrcadlovými posuvnými dveřmi | ložnice | PAX 2 × 75 + posuvné dveře 150 + KOMPLEMENT | vysoká |
 | 2 | Plovoucí TV skříňky 3000–3100 × 400 | obývák | BESTÅ závěsné 5 × 60 × 40 × 38 | vysoká |
 | 3 | 2 vysoké skříně v předsíni, jedna s nikou pro robotický vysavač | předsíň | PAX 2 × 50 (úprava: nika bez dna) | zvažujeme |
-| 4 | Police + děrovaná deska v komoře | komora | IVAR (nebo BOAXEL) + SKÅDIS | střední |
-| 5 | Drobnosti: botník, věšák, zrcadlo | předsíň | TRONES, háčky, zrcadlo | nízká |
 | – | *Ložnice (postel, stůl, knihovny)* | ložnice | *zatím nerozhodnuto – doplníme později* | – |
-
-**Co NEDĚLÁ montér IKEA:** kuchyňská linka, dubové hranoly a dlouhá police na TV stěně (truhlář);
-jídelní stůl, židle, pohovka a skříňka na tříděný odpad (zajistíme sami).
-U TV stěny se práce potkají – viz bod 2.
 
 ---
 
@@ -77,29 +71,6 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 ![Předsíň – výkres sestavy z PAX (varianta A): zavřeno a vnitřek](img/predsin-pax-vykres.jpg)
 ![Předsíň – půdorys sestavy (dvířka s panty vpravo, 167 mm volno k rozvaděči)](img/predsin-pax-pudorys.jpg)
 ![Předsíň – skříně s nikou pro robota (render našeho návrhu; PAX by byl o ~12 cm užší a bez samostatných horních dvířek)](img/predsin-skrine.jpg)
-
----
-
-## 4) Komora (mimo byt, přes chodbu) – police a nářadí
-
-| | |
-|---|---|
-| rozměr | **1352** (stěna se dveřmi) × **892** (hloubka), strop **2598**; dveře 613 se otevírají **ven** |
-| zadní stěna (1352) | **police hloubky 300 po celé šířce, od výšky 1000 až nahoru** (1000 konzervy · 1300 zásoby · 1600 čisticí prostředky · 1900 nářadí v krabicích · ~2250 sezónní krabice). **Pod policemi volná podlaha** (vysavač, kbelík, schůdky) |
-| levá stěna | **děrovaná deska** ~56 × 112 (2 desky nad sebou) na ruční nářadí, pod ní na zemi kufry |
-| u dveří vlevo | lišta s háčky na mop, koště, lopatku |
-| pravá stěna | držák tyčového vysavače (od výrobce vysavače) u lišty s vypínačem; zásuvku dodělá elektrikář |
-| tip IKEA | **IVAR** sekce 89 + 42, hloubka 30 (vejde se do 1352 – ověřit), nebo **BOAXEL** na zeď (60 + 60); **SKÅDIS** 2 × 56 × 56 + háčky |
-
-![Komora – ode dveří](img/komora-dvere.jpg)
-![Komora – k nářadí](img/komora-naradi.jpg)
-![Komora – výkres](img/komora-vykres.jpg)
-
----
-
-## 5) Předsíň – drobnosti
-- **botník** mělký na zeď (např. TRONES) + malá stolička na sezení (lavice max. ~55 cm široká),
-- **věšák** (lišta s háčky) a **zrcadlo** na stěnu.
 
 ---
 
