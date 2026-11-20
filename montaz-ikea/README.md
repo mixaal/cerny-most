@@ -13,6 +13,7 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 | 1 | Šatní skříň 1500 × 600 se zrcadlovými posuvnými dveřmi | ložnice | PAX 2 × 75 + posuvné dveře 150 + KOMPLEMENT | vysoká |
 | 2 | Plovoucí TV skříňky 3000–3100 × 400 | obývák | BESTÅ závěsné 5 × 60 × 40 × 38 | vysoká |
 | 3 | 2 vysoké skříně v předsíni, jedna s nikou pro robotický vysavač | předsíň | PAX 2 × 50 (úprava: nika bez dna) | zvažujeme |
+| 4 | Věšák na kabáty + zrcadlo na stěnu | předsíň | nástěnný věšák s háčky + zrcadlo (IKEA má obojí v mnoha rozměrech) | střední |
 | – | *Ložnice (postel, stůl, knihovny)* | ložnice | *zatím nerozhodnuto – doplníme později* | – |
 
 ---
@@ -77,6 +78,20 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 ![Předsíň – půdorys sestavy (dvířka s panty vpravo, 167 mm volno k rozvaděči)](img/predsin-pax-pudorys.jpg)
 ![Předsíň – skříně z PAX v reálné velikosti (2 × 50, výška 2364, ke stropu zůstává 79 mm)](img/predsin-pax-render.jpg)
 ![Předsíň – skříně z PAX zepředu: mezera ke stropu a nika pro robota](img/predsin-pax-zepredu.jpg)
+
+---
+
+## 4) Předsíň – věšák a zrcadlo
+
+| | |
+|---|---|
+| místo | stěna u dveří do ložnice, **mezi skříní a zárubní dveří do ložnice – volný úsek ~550 mm** (od rohu 680–1238) |
+| zrcadlo | **úzké vysoké na zeď, ~250–300 × 1100** (spodní hrana ~800, horní ~1900), blíž ke skříni |
+| věšák | **lišta s 3–4 háčky, šířka ~250–300**, výška ~1700, vedle zrcadla směrem k ložnici |
+| omezení | kabáty na věšáku vystoupí ~300 od stěny – pod věšákem nic nestojí (průchod do ložnice); dvířka skříně se otevírají od věšáku |
+| tip IKEA | nástěnné zrcadlo a lišta / věšák s háčky – necháme na vás výběr vhodného rozměru (dub nebo bílá) |
+
+![Předsíň – věšák a zrcadlo na stěně u ložnice (vlevo)](img/predsin-vesak.jpg)
 
 ---
 
