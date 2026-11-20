@@ -32,6 +32,8 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 | pozor | kotvení ke zdi |
 | **otázka** | **kdo by dodělal výplň nad skříní ke stropu (~23 cm) – vy, nebo truhlář?** Případně čím (panel / lišta na míru) |
 
+![Šatní skříň – výkres: zavřeno a vnitřek (výšky polic a tyčí)](img/satni-pax-vykres.jpg)
+![Šatní skříň – půdorys v rohu ložnice (vedle končí otevřené křídlo dveří)](img/satni-pax-pudorys.jpg)
 ![Šatní skříň – zavřená](img/pax-zavreno.jpg)
 ![Šatní skříň – vnitřek](img/pax-vnitrek.jpg)
 ![Šatní skříň – pravá sekce otevřená](img/pax-prava.jpg)
