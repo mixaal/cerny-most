@@ -11,8 +11,8 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 | # | Věc | Místnost | Náš tip IKEA | Priorita |
 |---|---|---|---|---|
 | 1 | Šatní skříň 1500 × 600 se zrcadlovými posuvnými dveřmi | ložnice | PAX 2 × 75 + posuvné dveře 150 + KOMPLEMENT | vysoká |
-| 2 | Plovoucí TV skříňky 3000–3100 × 400 | obývák | BESTÅ závěsné 5 × 60 × 40 × 38 | vysoká |
-| 3 | 2 vysoké skříně v předsíni, jedna s nikou pro robotický vysavač | předsíň | PAX 2 × 50 (úprava: nika bez dna) | zvažujeme |
+| 2 | Plovoucí TV skříňky 3000 × 420 × 400 | obývák | **BESTÅ – hotový návrh z plánovače, kód 34HSQ9C** | vysoká |
+| 3 | 2 vysoké skříně v předsíni | předsíň | PAX 2 × 50 (standardní, bez úprav) | zvažujeme |
 | 4 | Věšák na kabáty + zrcadlo na stěnu | předsíň | nástěnný věšák s háčky + zrcadlo (IKEA má obojí v mnoha rozměrech) | střední |
 | – | *Ložnice (postel, stůl, knihovny)* | ložnice | *zatím nerozhodnuto – doplníme později* | – |
 
@@ -43,17 +43,21 @@ Všechny rozměry jsou v **mm**, světlé rozměry mezi stěnami. Rendery jsou o
 
 ## 2) Plovoucí TV skříňky – obývák (levá stěna)
 
+Sestavu jsme si navrhli v **plánovači BESTÅ** – **kód návrhu 34HSQ9C** (300 × 42 × 40 cm, cena v plánovači 8 138 Kč).
+
 | | |
 |---|---|
-| délka | **3100** (stačí 3000), hloubka **400**, výška **~350–380** |
-| výška nad podlahou | spodní hrana **250**, horní **600** (pod skříňkami se vytírá, LED pásek pod nimi) |
-| úseky (od oken) | zásuvka · **otevřená nika** (router, konzole) · zásuvka · **výklop** · **otevřená přihrádka se 2 koši** |
-| tip IKEA | **BESTÅ závěsné 5 × 60 × 40 × 38** (= 3000) na nástěnné liště, bílá čela, 2 × zásuvka, 1 × bez dvířek, 1 × výklop/dvířka, 1 × bez dvířek + 2 koše; LED pásek pod skříňky |
-| zeď | ověřit materiál levé stěny (beton / cihla / SDK) kvůli závěsu |
-| koordinace s truhlářem | **nad skříňkami (od 600 do stropu) přijdou dubové hranoly 40 × 40 a dlouhá police s LED** – dělá truhlář. Prosíme nejdřív pověsit BESTÅ, pak hranoly. Domluvit, kdo dělá LED a kde bude zdroj. |
+| sestava (od okna) | **šuplík · otevřená přihrádka s policí (router, konzole) · šuplík · šuplík · otevřená přihrádka** (5 × 60) |
+| díly | rám BESTÅ 120 × 40 × 38 bílý **2×**, rám 60 × 40 × 38 **1×**; rám zásuvky 60 × 25 × 40 **3×** + kolejnice s tlumeným dovíráním **3×**; čelo LAPPVIKEN 60 × 38 bílé **3×**; úchytka BAGGANÄS černá 143 mm (2 bal. po 2 ks); police 56 × 36 **1×**; vrchní deska **dýha dub** 180 × 42 + 120 × 42; **závěsná lišta 60 cm 5×** |
+| **výška nad podlahou** | **spodní hrana 200, horní hrana (dubová deska) 600** – skříňka visí na zdi, pod ní se vytírá / projede robot |
+| hloubka | 400 korpus, deska 420 |
+| zásuvky ve zdi | všechny ve výšce ~300 (237–378) → **za skříňkou**: 3× zásuvka + data ~1264 od okna (za otevřenou přihrádkou s routerem), anténa ~1980, starý telefon ~2892. **Prosíme o otvory v zádech** pro kabely |
+| zeď | materiál levé stěny ověřit (kotvení závěsné lišty) |
+| koordinace s truhlářem | **od 600 nahoru přijdou dubové hranoly 40 × 40 a police** (dělá truhlář) → **nejdřív pověsit BESTÅ** (horní hrana přesně 600, vodorovně), pak hranoly |
 
-![TV stěna – render](img/tv-stena-render.jpg)
-![TV stěna – výkres (rozměry)](img/tv-stena-vykres.jpg)
+![Náš návrh v plánovači BESTÅ (kód 34HSQ9C)](img/besta-navrh.jpg)
+![Plánovač – rozměry 300 × 42 × 40](img/besta-planovac.jpg)
+![TV stěna – render (orientačně, nad skříňkou hranoly truhláře)](img/tv-stena-render.jpg)
 
 ---
 
@@ -65,19 +69,17 @@ Zatím se rozhodujeme mezi truhlářem a PAX – prosíme o názor, jestli to ta
 |---|---|
 | místo | stěna proti vstupním dveřím, od rohu; volná šířka **1117** (dál je rozvaděč s pojistkami, musí zůstat přístupný) |
 | strop | **2443** → korpus 236,4 při zvedání z lehu potřebuje ~2434 → **vůle jen ~9 mm**. Skládat nastojato? Nechme na vás – jen upozorňujeme |
-| sestava | **2 × PAX 50 × 58 × 236** (= 1000, k rozvaděči zůstane 167), nahoře krycí lišta ke stropu (~79 mm) |
+| sestava | **2 × PAX 50 × 58 × 236** (= 1000, k rozvaděči zůstane 167), nahoře krycí lišta ke stropu (~79 mm). **Oba korpusy standardně, bez úprav** |
 | levý korpus | dvířka 50 × 229; dole výsuvná police na vysoké boty, **tyč ve výšce 1600**, police 1700, nahoře ~2130 |
-| pravý korpus – **nika pro robotický vysavač** | **0–450 otevřeno, bez dna a bez soklu** (robot vjíždí po podlaze předsíně). Korpus složit bez dna a soklu, **dno připevnit napevno ve výšce 450** (navrtat), **záda zkrátit** a přibít od 450 nahoru, případně latka vzadu dole. Dvířka **50 × 195** jen od niky nahoru. Police 830, 1210, 1700, ~2130 |
-| kotvení | oba korpusy do zdi (u korpusu s nikou nutně); podlaha je vinyl – vyrovnat podložkami pod boky |
-| robot | zásuvka je hned vpravo vedle skříně na liště (~400 nad podlahou) → kabel bokem do niky |
-| záruka | úpravu korpusu bereme na sebe, ztráta záruky nevadí |
+| pravý korpus | dvířka 50 × 229; dole 2 police na boty, police 480, 830, 1210, 1700, ~2130 |
+| kotvení | oba korpusy do zdi; podlaha je vinyl – vyrovnat podložkami |
+| robot | **bez niky** – robot bude zaparkovaný vedle skříně u lišty se zásuvkou (vpravo) |
 | **otázka** | **kdo by dodělal výplň nad skříněmi ke stropu (79 mm) – vy, nebo truhlář?** Případně čím (krycí lišta na míru) |
-| robot | nabíjecí stanice musí být nižší než ~400 mm (vpředu nad podlahou ~414 pod dvířky) – model ještě upřesníme |
 
-![Předsíň – výkres sestavy z PAX (varianta A): zavřeno a vnitřek](img/predsin-pax-vykres.jpg)
+![Předsíň – výkres sestavy z PAX: zavřeno, vnitřek, půdorys (robot vedle skříně)](img/predsin-pax-vykres.jpg)
 ![Předsíň – půdorys sestavy (dvířka s panty vpravo, 167 mm volno k rozvaděči)](img/predsin-pax-pudorys.jpg)
 ![Předsíň – skříně z PAX v reálné velikosti (2 × 50, výška 2364, ke stropu zůstává 79 mm)](img/predsin-pax-render.jpg)
-![Předsíň – skříně z PAX zepředu: mezera ke stropu a nika pro robota](img/predsin-pax-zepredu.jpg)
+![Předsíň – skříně z PAX zepředu: mezera ke stropu, robot vedle skříně](img/predsin-pax-zepredu.jpg)
 
 ---
 
